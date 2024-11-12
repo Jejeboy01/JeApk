@@ -1,0 +1,23 @@
+
+{
+  "name": "Jadwal Harian",
+  "short_name": "Jadwal",
+  "description": "Aplikasi jadwal harian dengan alarm",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f4f4f9",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "JeJadwal01.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "JeJadwal02.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
+    
